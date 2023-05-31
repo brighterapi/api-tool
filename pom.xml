@@ -72,7 +72,7 @@
                 <version>${openapi-generator-maven-plugin.version}</version>
                 <executions>
                     <execution>
-                        <id>generate-api-code</id>
+                        <id>generate-server-api-code</id>
                         <goals>
                             <goal>generate</goal>
                         </goals>

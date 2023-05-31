@@ -80,8 +80,8 @@
                             <inputSpec>${project.basedir}/src/main/resources/specs/product-api.yaml
                             </inputSpec>
                             <configOptions>
-                                <apiPackage>com.backbase.presentation.product.management.rest.api</apiPackage>
-                                <modelPackage>com.backbase.presentation.product.management.rest.api.model</modelPackage>
+                                <apiPackage>com.brighterapi.presentation.product.management.rest.api</apiPackage>
+                                <modelPackage>com.brighterapi.presentation.product.management.rest.api.model</modelPackage>
                             </configOptions>
                         </configuration>
                     </execution>

@@ -1,7 +1,7 @@
 package com.brighterapi.productservice.controller;
 
-import com.backbase.presentation.product.management.rest.api.ProductsApi;
-import com.backbase.presentation.product.management.rest.api.model.ProductDetail;
+import com.brighterapi.presentation.product.management.rest.api.ProductsApi;
+import com.brighterapi.presentation.product.management.rest.api.model.ProductDetail;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RestController;
 
